@@ -29,3 +29,12 @@
 
 
 [linkedin]: http://www.linkedin.com/in/vinicius-barbosa-44b0121b0
+
+jçjkp´jk
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusB-Dev&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusB-Dev&repo=convoychat" />
+</a>
