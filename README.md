@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ViniciusB-Dev/ViniciusB-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there, I'm Lucas Vieira 👋
-
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -38,10 +32,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...### Hi there 👋
 
-<!--
-**ViniciusB-Dev/ViniciusB-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there, I'm Lucas Vieira 👋
-
 
 ### Connect with me:
 
@@ -69,13 +59,3 @@ Here are some ideas to get you started:
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasarieiv&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
