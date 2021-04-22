@@ -36,6 +36,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
 
 <br />
+<br />
+<br />
+<br />
+<br />
 <hr />
 
 ![ViniciusB-Dev github stats](https://github-readme-stats.vercel.app/api?username=ViniciusB-Dev&theme=dracula&show_icons=true)
