@@ -17,10 +17,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <br />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<br />
 
-<br />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <br />
