@@ -24,8 +24,9 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Dev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+asdasd
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: http://www.linkedin.com/in/vinicius-barbosa-44b0121b0
