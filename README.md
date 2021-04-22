@@ -15,13 +15,13 @@
 
 <img align="left" alt="JavaScript" width="26px" src="js.png" />
 
-<img align="left" alt="Node.js" width="26px" src="node.png" />
+<img align="left" alt="Node.js" width="60px" src="node.png" />
 
-<img align="left" alt="SQL" width="26px" src="Sem título-1.pngg" />
+<img align="left" alt="SQL" width="26px" src="Sem título-1.png" />
 
-<img align="left" alt="MySQL" width="30px" src="mysql.png" />
+<img align="left" alt="MySQL" width="40px" src="mysql.png" />
 
-<img align="left" alt="Git" width="26px" src="git.png" />
+<img align="left" alt="Git" width="40px" src="git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="github.png" />
 
