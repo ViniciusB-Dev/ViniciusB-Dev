@@ -19,7 +19,7 @@
 
 <img align="left" alt="SQL" width="26px" src="Sem título-1.pngg" />
 
-<img align="left" alt="MySQL" width="26px" src="mysql.png" />
+<img align="left" alt="MySQL" width="30px" src="mysql.png" />
 
 <img align="left" alt="Git" width="26px" src="git.png" />
 
