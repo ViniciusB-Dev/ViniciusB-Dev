@@ -20,21 +20,15 @@
 <br />
 <br />
 
-![Lucasarieiv github stats](https://github-readme-stats.vercel.app/api?username=ViniciusB-Dev&theme=dracula&show_icons=true)
+![ViniciusB-Dev github stats](https://github-readme-stats.vercel.app/api?username=ViniciusB-Dev&theme=dracula&show_icons=true)
 
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Dev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 [linkedin]: http://www.linkedin.com/in/vinicius-barbosa-44b0121b0
 
-jçjkp´jk
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusB-Dev&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniciusB-Dev&repo=convoychat" />
-</a>
