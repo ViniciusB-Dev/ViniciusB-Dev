@@ -29,7 +29,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="ts.png" />
 
-<img align="left" alt="GitHub" width="26px" src="css3.png" />
+<img align="left" alt="GitHub" width="20px" src="css3.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />
 
