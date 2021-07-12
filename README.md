@@ -47,4 +47,12 @@
 
 [linkedin]: http://www.linkedin.com/in/vinicius-barbosa-44b0121b0
 
+<div  align="center"> 
+  
+ 
+  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+
 
