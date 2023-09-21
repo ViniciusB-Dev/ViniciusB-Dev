@@ -58,7 +58,7 @@
 
 |                     Bancos Relacionais                                        |                          Bancos Não Relacionais                                 |
 |                           :---:                                               |                                     :---:                                       |
-| ![Mysql](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=mysql) ![PostgreSql](https://img.shields.io/badge/PostgreSql-000?style=for-the-badge&logo=PostgreSql) | ![Mongodb](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb) |
+| ![Mysql](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql) ![PostgreSql](https://img.shields.io/badge/PostgreSql-000?style=for-the-badge&logo=PostgreSql) | ![Mongodb](https://img.shields.io/badge/mongodb-000?style=for-the-badge&logo=mongodb) |
 
 </div>
 
