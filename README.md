@@ -1,3 +1,4 @@
+  :---:   
 <div style="text-align: center;">
 
 ### Olá / Hellow 👋
@@ -89,3 +90,4 @@
  ![Snake animation](https://github.com/ViniciusB-Dev/ViniciusB-Dev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  :---:   
