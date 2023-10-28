@@ -1,6 +1,8 @@
 <div style="text-align: center;">
 
-### Olá / Hellow 👋
+<a href="mailto:jessicamedeirosp96@gmail.com">
+  <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
+</a>### Olá / Hellow 👋
 
 </div>
 
