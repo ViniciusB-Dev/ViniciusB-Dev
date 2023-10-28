@@ -1,8 +1,8 @@
 <div style="text-align: center;">
 
-<a href="mailto:viniciusds.barbosa@hotmail.com">
+### Olá / Hellow 👋 <a href="mailto:viniciusds.barbosa@hotmail.com">
   <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" width="50px" />
-</a> ### Olá / Hellow 👋
+</a> 
 
 </div>
 
