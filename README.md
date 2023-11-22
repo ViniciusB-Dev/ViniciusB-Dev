@@ -26,8 +26,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![Java]()
-
 ![Springboot](https://img.shields.io/badge/springboot-000?style=for-the-badge&logo=springboot)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Node.js](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
