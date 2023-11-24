@@ -29,7 +29,7 @@
 ![Springboot](https://img.shields.io/badge/springboot-000?style=for-the-badge&logo=springboot)
 ![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
 ![Node.js](https://img.shields.io/badge/nodejs-000?style=for-the-badge&logo=node.js)
-![Next.js](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
